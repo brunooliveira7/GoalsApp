@@ -1,7 +1,7 @@
 <h1 align="center"> Goals App </h1>
 
 <p align="center">
-Este aplicativo de controle de metas é uma ferramenta simples e eficiente para quem deseja gerenciar suas metas diretamente pelo terminal. Desenvolvido em JavaScript com Node.js, o app permite que usuários criem, atualizem, acompanhem e concluam metas, tudo em uma interface de linha de comando.
+Aplicativo de controle de metas é uma ferramenta simples e eficiente para quem deseja gerenciar suas metas diretamente pelo terminal. Desenvolvido em JavaScript com Node.js, o app permite que usuários criem, atualizem, acompanhem e concluam metas, tudo em uma interface de linha de comando.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Este aplicativo de controle de metas é uma ferramenta simples e eficiente para 
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/GoalsApp/blob/main/Layout%20App%20Goals.png">
 </p>
 
 <br>
