@@ -1,4 +1,4 @@
-<h1 align="center"> Focus Timer </h1>
+<h1 align="center"> Goals App </h1>
 
 <p align="center">
 Este aplicativo de controle de metas é uma ferramenta simples e eficiente para quem deseja gerenciar suas metas diretamente pelo terminal. Desenvolvido em JavaScript com Node.js, o app permite que usuários criem, atualizem, acompanhem e concluam metas, tudo em uma interface de linha de comando.
@@ -12,7 +12,7 @@ Este aplicativo de controle de metas é uma ferramenta simples e eficiente para 
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/FocusTimer2.0/blob/main/assets/Layout%20FocusTImer2.0.png">
+  <img alt="License" src="">
 </p>
 
 <br>
@@ -27,11 +27,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Focus Timer divide o trabalho em intervalos curtos e focados, com pausas regulares, otimizando o desempenho e prevenindo a fadiga
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/PMvBs7Pdmy7mxiAhBMbEsT/Stage-05---Focus-Timer-2.0-(Copy)?node-id=0-1&node-type=canvas&t=ZmyGMYzJJBC0rOdt-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Este projeto é ideal para quem busca uma solução simples e sem dependências pesadas para gerenciar metas diretamente do terminal!
 
 ## :memo: Licença
 
