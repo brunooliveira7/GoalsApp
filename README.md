@@ -1,7 +1,7 @@
 <h1 align="center"> Focus Timer </h1>
 
 <p align="center">
-O Focus Timer é um aplicativo de produtividade projetado para ajudar usuários a gerenciar melhor o tempo e aumentar a concentração. Baseado na técnica Pomodoro. Site disponível em: 
+Este aplicativo de controle de metas é uma ferramenta simples e eficiente para quem deseja gerenciar suas metas diretamente pelo terminal. Desenvolvido em JavaScript com Node.js, o app permite que usuários criem, atualizem, acompanhem e concluam metas, tudo em uma interface de linha de comando.
 </p>
 
 <p align="center">
